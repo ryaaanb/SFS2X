@@ -1,0 +1,8 @@
+10 Feb 2023 | 15:29:53,212 | INFO  | Log analysis process started
+10 Feb 2023 | 15:29:53,214 | INFO  | Source folder: logs | Target folder: data | Log files: smartfox.log
+10 Feb 2023 | 15:29:53,446 | INFO  | Dropping schema to rebuild database
+10 Feb 2023 | 15:29:53,454 | INFO  | Database schema not found; recreating schema and tables
+10 Feb 2023 | 15:29:53,475 | INFO  | Processing file 'smartfox.log'
+10 Feb 2023 | 15:29:53,530 | INFO  | 65 log lines processed and events added to database
+10 Feb 2023 | 15:29:53,530 | INFO  | 429 log lines discarded due to invalid timestamp, wrong pattern or multi-line entries
+10 Feb 2023 | 15:29:53,642 | INFO  | Log analysis process completed (elapsed time: 00:00:00.431)
